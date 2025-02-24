@@ -1,7 +1,7 @@
 {
 	"version": 3,
 	"file": "style.min.css",
-	"sourceRoot": "/home/harshitpd/Documents/GITHUB/my-blog/harshit.dev",
+	"sourceRoot": "/home/harshitpd/Documents/GITHUB/my-blog",
 	"sources": [
 		"themes/DoIt/assets/css/style.scss",
 		"themes/DoIt/assets/css/_variables.scss",
