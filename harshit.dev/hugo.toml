@@ -1,0 +1,59 @@
+baseURL = 'https://example.org/'
+languageCode = 'en-us'
+title = 'My Blog Site'
+
+theme = "DoIt"
+
+[params]
+  # DoIt theme version
+  version = "0.2.X"
+
+# [params]
+#   enableCDN = true  # This enables FontAwesome icons via a CDN
+
+# [params.social]
+#   [params.social.Mastodon]
+#     # weight when arranging icons (the greater the weight, the later the icon is positioned)
+#     weight = 0
+#     # your social ID
+#     id = "@xxxx"
+#     # prefix of your social link
+#     prefix = "https://mastodon.social/"
+#     # content hovering on the icon
+#     title = "Mastodon"
+
+[menu]
+  [[menu.main]]
+    identifier = "posts"
+    # you can add extra information before the name (HTML format is supported), such as icons
+    pre = ""
+    # you can add extra information after the name (HTML format is supported), such as icons
+    post = ""
+    name = "Posts"
+    url = "/posts/"
+    # title will be shown when you hover on this menu link
+    title = ""
+    weight = 1
+  [[menu.main]]
+    identifier = "tags"
+    pre = ""
+    post = ""
+    name = "Tags"
+    url = "/tags/"
+    title = ""
+    weight = 2
+  [[menu.main]]
+    identifier = "categories"
+    pre = ""
+    post = ""
+    name = "Categories"
+    url = "/categories/"
+    title = ""
+    weight = 3
+
+# Markup related configuration in Hugo
+[markup]
+  # Syntax Highlighting (https://gohugo.io/content-management/syntax-highlighting)
+  [markup.highlight]
+    # false is a necessary configuration (https://github.com/dillonzq/LoveIt/issues/158)
+    noClasses = false

@@ -1,0 +1,56 @@
+<rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title>My Blog Site</title>
+        <link>http://localhost:1313/</link>
+        <description>My Blog Site</description>
+        <generator>Hugo -- gohugo.io</generator><language>en-us</language><lastBuildDate>Mon, 24 Feb 2025 13:45:34 &#43;0530</lastBuildDate>
+            <atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
+        <item>
+    <title>College Notes (Latex)</title>
+    <link>http://localhost:1313/posts/first_post/</link>
+    <pubDate>Mon, 24 Feb 2025 13:45:34 &#43;0530</pubDate><author>
+        <name>Author</name>
+    </author><guid>http://localhost:1313/posts/first_post/</guid>
+    <description><![CDATA[<p>Here I am going to share by college notes.
+<!-- raw HTML omitted -->
+<!-- raw HTML omitted --><!-- raw HTML omitted --> College Notes
+<!-- raw HTML omitted --></p>
+<hr>
+<h2 id="-courses-overview" class="headerLink">
+    <a href="#-courses-overview" class="header-mark"></a>🚀 <strong>Courses Overview</strong></h2>
+<div class="table-wrapper">
+  <table>
+    <thead>
+        <tr>
+            <th style="text-align: ">📘 <strong>Course</strong></th>
+            <th style="text-align: ">📌 <strong>Status</strong></th>
+            <th style="text-align: ">📆 <strong>Total Lectures</strong></th>
+            <th style="text-align: ">📝 <strong>Notes</strong></th>
+        </tr>
+    </thead>
+    <tbody>
+        <tr>
+            <td style="text-align: "><strong>Thermodynamics and Cloud Physics</strong></td>
+            <td style="text-align: ">✅ Completed</td>
+            <td style="text-align: ">30</td>
+            <td style="text-align: "><a href="https://github.com/Harshit-Dhanwalkar/College-Notes/tree/main/Thermodynamics-and-Cloud-Physics/Notes.pdf" target="_blank" rel="noopener noreferrer">📄 View Notes</a></td>
+        </tr>
+        <tr>
+            <td style="text-align: "><strong>Numerical Weather Prediction</strong></td>
+            <td style="text-align: ">🔄 Ongoing</td>
+            <td style="text-align: ">19*</td>
+            <td style="text-align: "><a href="https://github.com/Harshit-Dhanwalkar/College-Notes/tree/main/Numerical-Weather-Prediction/Notes.pdf" target="_blank" rel="noopener noreferrer">📄 View Notes</a></td>
+        </tr>
+        <tr>
+            <td style="text-align: "><strong>Boundary Layer Meteorology</strong></td>
+            <td style="text-align: ">🔄 Ongoing</td>
+            <td style="text-align: ">11*</td>
+            <td style="text-align: "><a href="https://github.com/Harshit-Dhanwalkar/College-Notes/tree/main/Boundary-Layer-Meteorology/Notes.pdf" target="_blank" rel="noopener noreferrer">📄 View Notes</a></td>
+        </tr>
+    </tbody>
+  </table>
+</div>
+<blockquote>
+  <p><strong>Note:</strong> Some notes may require multiple compilations to produce a PDF output.</p>]]></description>
+</item></channel>
+</rss>
